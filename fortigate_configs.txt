@@ -1,0 +1,1 @@
+fortigate = 'IP/FQDN' ; api_token = 'FORTIGATE_API_TOKEN' ; porta = 'PORT'
